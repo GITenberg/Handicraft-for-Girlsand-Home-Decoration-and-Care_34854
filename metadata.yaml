@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37275'
     url: http://www.gutenberg.org/2009/agents/37275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34854#Handicraft-for-Girlsand-Home-Decoration-and-Care
 gutenberg_bookshelf:
 - Technology
 - Crafts
