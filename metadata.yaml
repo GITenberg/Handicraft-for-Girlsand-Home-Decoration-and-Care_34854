@@ -1,0 +1,31 @@
+_repo: Handicraft-for-Girlsand-Home-Decoration-and-Care_34854
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34854-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: McGlauflin, Idabelle
+    gutenberg_agent_id: '37275'
+    url: http://www.gutenberg.org/2009/agents/37275
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34854'
+  lccn: '10026746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Needlework'
+- !lcsh 'Handicraft'
+title: "Handicraft for Girls\r\nA Tentative Course in Needlework, Basketry, Designing,\
+  \ Paper and Cardboard Construction, Textile Fibers and Fabrics and Home Decoration\
+  \ and Care"
+url: http://www.gutenberg.org/ebooks/34854
